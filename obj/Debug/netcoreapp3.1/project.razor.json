@@ -14397,6 +14397,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Usuarios\\editarUsuario.cshtml",
+      "TargetPath": "Usuarios\\editarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Usuarios\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Usuarios\\ListaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -14404,6 +14414,11 @@
     {
       "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
       "TargetPath": "Views\\Livro\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Usuarios\\CadastroRealizado.cshtml",
+      "TargetPath": "Usuarios\\CadastroRealizado.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14424,6 +14439,16 @@
     {
       "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
       "TargetPath": "Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Usuarios\\NeedAdmin.cshtml",
+      "TargetPath": "Usuarios\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Usuarios\\ExcluirUsuario.cshtml",
+      "TargetPath": "Usuarios\\ExcluirUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14454,6 +14479,11 @@
     {
       "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Alysson Feitosa\\Downloads\\Netcore3.1\\Netcore3.1\\Biblioteca\\Usuarios\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Usuarios\\RegistrarUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
